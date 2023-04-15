@@ -9,7 +9,6 @@
 // when you change one of the lines below! Try adding a `println!` line, or try changing
 // what it outputs in your terminal. Try removing a semicolon and see what happens!
 
-// I AM NOT DONE
 
 fn main() {
     println!("Hello and");
@@ -19,7 +18,7 @@ fn main() {
     println!(r#" | '__| | | / __| __| | | '_ \ / _` / __| "#);
     println!(r#" | |  | |_| \__ \ |_| | | | | | (_| \__ \ "#);
     println!(r#" |_|   \__,_|___/\__|_|_|_| |_|\__, |___/ "#);
-    println!(r#"                               |___/      "#);
+    println!(r#" test                               |___/      "#);
     println!();
     println!("This exercise compiles successfully. The remaining exercises contain a compiler");
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
